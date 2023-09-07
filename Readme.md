@@ -16,6 +16,7 @@
 
 # Dependencies
 * [qb-target](https://github.com/BerkieBb/qb-target)
+* [ps-ui](https://github.com/Project-Sloth/ps-dispatch)
 * [ps-ui](https://github.com/Project-Sloth/ps-ui)
 
 # Original
